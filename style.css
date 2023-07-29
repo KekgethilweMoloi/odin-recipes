@@ -1,0 +1,27 @@
+/* 
+redish : #8f1e20
+brown: #b74c18
+peach: #fecc8d
+blue: #c6d0dc
+darkblue: #242e3a
+*/
+
+body{
+    max-width: auto;
+    margin: 0 auto;
+}
+
+.banner{
+    display:block;
+    text-align: center;
+}
+
+h1{
+    color: #8f1e20;
+    font-family: 'Tahoma', Georgia, Arial, Helvetica, sans-serif;
+    font-size: 40px;
+
+
+}
+
+
