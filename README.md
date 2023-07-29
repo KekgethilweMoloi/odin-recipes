@@ -10,5 +10,5 @@ Skills Demonstrated - first iteration
 Skills Demonstrated - second iteration
  - In style.css added style to selectors 
  - Used blocks, divs, spans, padding, margins and even borders
- - Specifity, INheritance and rule order was kept in mind when adding styles to the elements
+ - Specifity, Inheritance and rule order was kept in mind when adding styles to the elements
 
