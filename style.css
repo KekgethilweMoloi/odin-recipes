@@ -7,21 +7,37 @@ darkblue: #242e3a
 */
 
 body{
-    max-width: auto;
-    margin: 0 auto;
+    max-width: 800px;
+    margin: 5px auto;
 }
 
 .banner{
     display:block;
     text-align: center;
+    background-color: #c6d0dc ;
+    border: solid #242e3a;
+    padding: 1px ;
+
 }
 
 h1{
-    color: #8f1e20;
-    font-family: 'Tahoma', Georgia, Arial, Helvetica, sans-serif;
-    font-size: 40px;
-
+    color: #242e3a;
+    font-family: Georgia, Arial, Helvetica, sans-serif;
+    font-size: 30px;
 
 }
+
+.recipe_links{
+    display:block;
+}
+
+#one,
+#two, 
+#three{
+    margin: 5px;
+    padding: 5px;
+}
+
+
 
 
