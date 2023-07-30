@@ -1,3 +1,5 @@
+/*styling for all recipe pages*/
+
 /* 
 white background : #f7f7f7
 grey background : #d4d0ca
@@ -57,6 +59,21 @@ h3{
 b{
     color: #1d200a;
 }
+
+/*GC pizza extras*/
+
+.notes{
+    display:block;
+    padding: 1px;
+    color: #646b50;
+}
+
+#img2{
+    border:5px solid;
+    border-color: #646b50;
+}
+
+
 
 
 
