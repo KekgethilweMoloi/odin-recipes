@@ -9,23 +9,36 @@ black : #120e0d
 accent : #606469 
 */
 
+html{
+    background-color: white;
+}
 body{
-    max-width: auto;
+    max-width: 800px;
     margin: 5px auto;
     background-color:#f7f7f7;
-    ;
+    border:3px solid;
+    border-color: #646b50;
 }
+
+/* old body{
+    max-width: 800px;
+    margin: 5px auto;
+    background-color:#f7f7f7;
+}*/
+
 
 .banner{
     display:block;
     text-align: center;
     padding: 1px ;
+    background-color: #d4d0ca;
+    color: #646b50;
 
 }
 
 h1{
     color: #1d200a;
-    font-family: Georgia, Arial, Helvetica, sans-serif;
+    /*font-family: Georgia, Arial, Helvetica, sans-serif;*/ /*didn't like the font*/
     font-size: 40px;
 
 }
