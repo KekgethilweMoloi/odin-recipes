@@ -1,17 +1,32 @@
 /* 
-background-color : #bbbfc6
-white background : #d4d5d0
-font-color : #606469
-accent yellow : #ec9101
-accent red : #9f3a32
-chocolate : #a1795b
+white background : #f7f7f7
+grey background : #d4d0ca
+font-green : #1d200a
+light green : #cccdbb 
+olive green : #646b50
+creamy : #d4b78d
+black : #120e0d
+accent : #606469 
 */
 
 body{
     max-width: auto;
-    margin: 5px auto;
-    background-color:#d4d5d0;
+    margin: auto;
+    background-color:#f7f7f7;
 }
+
+.top{
+    display:block;
+    text-align: center;
+    padding: 1px;
+    background-color:#d4d0ca;
+    color: #646b50;
+}
+
+h1{
+    color: #1d200a;
+}
+
 
 
 
