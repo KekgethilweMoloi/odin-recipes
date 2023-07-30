@@ -1,27 +1,28 @@
 /* 
-redish : #8f1e20
-brown: #b74c18
-peach: #fecc8d
-blue: #c6d0dc
-darkblue: #242e3a
+background-color : #bbbfc6
+white background : #d4d5d0
+font-color : #606469
+accent yellow : #ec9101
+accent red : #9f3a32
+chocolate : #a1795b
 */
 
 body{
-    max-width: 800px;
+    max-width: auto;
     margin: 5px auto;
+    background-color:#d4d5d0
+    ;
 }
 
 .banner{
     display:block;
     text-align: center;
-    background-color: #c6d0dc ;
-    border: solid #242e3a;
     padding: 1px ;
 
 }
 
 h1{
-    color: #242e3a;
+    color: #606469;
     font-family: Georgia, Arial, Helvetica, sans-serif;
     font-size: 30px;
 
@@ -37,6 +38,8 @@ h1{
     margin: 5px;
     padding: 5px;
 }
+
+
 
 
 
